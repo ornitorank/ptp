@@ -1,7 +1,7 @@
 # Platypus protecting user funds
 
 
-Last week, as MIM was risking a depeg, Platypus decided to <a href="https://twitter.com/MrBeaverTail/status/1486880374705823751">delist MIM from their platform</a> and paused the contract, preventing LPs from withdrawing. They then proceeded to attack Curve for their "irresponsible" handling of the issue, arguing that they acted in the best interest of their LPs:
+Last week, as MIM was risking a depeg, Platypus decided to <a href="https://twitter.com/MrBeaverTail/status/1486880374705823751">delist MIM from their platform</a> and paused the MIM pool's contract, preventing LPs from withdrawing. They then proceeded to attack Curve for their "irresponsible" handling of the issue, arguing that they acted in the best interest of their LPs:
 
 ![image](https://user-images.githubusercontent.com/98719843/151724588-30d877a5-07f2-4237-9c06-0d5fff31a978.png)
 
